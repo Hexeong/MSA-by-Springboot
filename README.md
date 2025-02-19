@@ -2,7 +2,7 @@
 스프링 부트로 개발하는 MSA 컴포넌트 공부 레포지토리입니다. 개인적인 MSA 및 스프링부트 관련 지식을 게시할 예정입니다.
 
 > [!NOTE]
-> 해당 내용은 [시작하세요! 도커/쿠버네티스](https://www.yes24.com/Product/Goods/115306377c) 책을 기준으로 공부한 내용입니다.
+> 해당 내용은 [스프링 부트로 개발하는 MSA 컴포넌트](https://www.yes24.com/Product/Goods/115306377) 책을 기준으로 공부한 내용입니다.
 
 ## 해당 공부 목표
 - 모놀리식 아키텍쳐와 MSA 비교
@@ -13,6 +13,9 @@
 - 스프링 스케쥴링 태스크
 - 스프링 이벤트
 
-# Studying Tools
+## Studying Tools
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Intelij](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+## JDK version 
+![JDK 21](https://img.shields.io/badge/JDK21-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
